@@ -1586,7 +1586,7 @@ img {
 	.menu-icon a {
 		color: rgb(237, 237, 237);
 	}
-	.responsive-nav-cascada li a:active{
+	#block-menu-menu-top-menu-responsivo-cascada li a:active{
 		color: #828282;
 		font-style: italic!important;
 	}
@@ -1612,3 +1612,5 @@ img {
 	display: inline;
 }
 /*end of read more button*/
+
+
