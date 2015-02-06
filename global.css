@@ -1587,7 +1587,7 @@ img {
 		color: rgb(237, 237, 237);
 	}
 	#block-menu-menu-top-menu-responsivo-cascada li a:active{
-		color: #828282;
+		color: #00ACD0!important;
 		font-style: italic!important;
 	}
 
